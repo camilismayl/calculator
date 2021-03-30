@@ -1,0 +1,73 @@
+body {
+
+}
+
+#grey {
+    background: #d4d4d2;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+#zero {
+    cursor: pointer;
+    text-align: left;
+    padding-left: 20px;
+    font-weight: 600;
+    width: 137px;
+    background: #505050;
+    color: #FFFFFF;
+    border-radius: 50px;
+    font-size: 25px;
+}
+
+.button {
+    margin: 6px;
+    width: 60px;
+    height: 60px;
+    font-size: 25px;
+    cursor: pointer;
+    border: none;
+    border-radius: 50%;
+}
+
+#number {
+    font-weight: 600;
+    background: #505050;
+    cursor: pointer;
+    color: #FFFFFF;
+}
+
+#symbol {
+    cursor: pointer;
+    font-weight: 600;
+    background: #ff9500;
+    width: 60px;
+    height: 60px;
+    font-size: 25px;
+    margin: 2px;
+    color: #ffffff;
+}
+
+.textview {
+    text-align: right;
+    font-weight: 600;
+    width: 270px;
+    height: 40px;
+    margin: 5px;
+    font-size: 40px;
+    padding: 5px;
+    border: none;
+    background: #1c1c1c;
+    border-radius: 5px;
+    color: white;
+}
+
+.main {
+    padding: 30px;
+    display: inline-block;
+    margin-left: 200px;
+    margin-top: 200px;
+    border-radius: 20px;
+    background: #1c1c1c;
+    margin-bottom: 50px;
+}
